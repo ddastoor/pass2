@@ -1,36 +1,16 @@
------BEGIN PGP MESSAGE-----
+Jio Landline number 2235676247
+Serial number RWUOTHF62A6A191
+MAC ID 00:67:62:a6:a1:91
+Firmware version FHMTF1_JCO300_R1.75
+IPv4 address 10.29.201.167
+IPV6 address 2405:201:c:7000:b26d:c36d:b18c:34bd 
+router admin console access 192.168.29.1 .. admin/Jiocentrum
 
-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
-AJi75GWsoSdbW7pcDbS5FMZfzTeIUvEYfg==
-=cSfe
------END PGP MESSAGE-----
+jiofiber_wifi
+username / 
+pwd: r4Ra0@pv@Vbi~fx
+
+
+jiofiber_5G_wifi
+username /
+pwd: 3$$MzqRs7RQHbEi
